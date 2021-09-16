@@ -73,7 +73,8 @@ Variables
 	
 	11. Solve all exercises that are at this link: https://silentteacher.toxicode.fr/hourofcode
 
-Objects & Arrays
+### Objects & Arrays
+
 	1. create an empty object
 	
 	2. create an object with properties name and last name - each with empty values
