@@ -72,7 +72,7 @@ Variables
 	10. Declare two variables and initialize them using numbers or string and print to their console their sum using the operator "+"
 	
 	11. Solve all exercises that are at this link: 
-	[toxicode.fr] (https://silentteacher.toxicode.fr/hourofcode)
+	<a href="https://silentteacher.toxicode.fr/hourofcode"></a>
 
 ### Objects & Arrays
 
