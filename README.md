@@ -74,6 +74,7 @@ Variables
 	11. Solve all exercises that are at this link: 
 	
 [toxicode.fr](https://silentteacher.toxicode.fr/hourofcode){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ### Objects & Arrays
 
