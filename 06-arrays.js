@@ -60,7 +60,7 @@
 
 /**
  * 10 medium
- * Write a function which accepts a string of numbers as input and inserts dashes (-) 
+ * Write a function which accepts a string of digits as input and inserts dashes (-) 
  * between each two even numbers. 
  * For example if you accept 025468 the output should be 0-254-6-8
  * The function should return the string output
