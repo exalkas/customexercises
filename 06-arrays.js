@@ -19,7 +19,7 @@
 /**
  * 04 easy
  * Write a function setFirstElement that takes an array and one variable. 
- * Set the first element of the array to the variable 
+ * Set the first element of the array with the new variable 
  * The array should be returned
  */
 
