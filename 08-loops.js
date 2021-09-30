@@ -27,7 +27,7 @@
  * 04 medium
  * Write a function lcm that takes two natural numbers and 
  * calculates their least common multiple (lcm). 
- * The lcm of two natural numbers a und b is the smallest natural number 
+ * The lcm of two natural numbers a and b is the smallest natural number 
  * that is divisible by a and b.
  * Example: lcm(4, 6) should return 12
  * Hint: use a do while loop
@@ -43,14 +43,16 @@
  */
 
 /**
- * 6 medium
- * Create your own trim() function. That is, a function that accepts a string and
- * searches for white spaces from the begining and from the end of the string and removes them
+ * 06 medium
+ * Create your own trim() function. 
+ * That is, a function that accepts a string and
+ * searches for white spaces from the begining and 
+ * from the end of the string and removes them
  * The function should return the 'cleaned' string
  */
 
 /**
- * 7 Hard
+ * 07 Hard
  * Write a function to construct the following pattern, using a nested for-loop.
 
 *
