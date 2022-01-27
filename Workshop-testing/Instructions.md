@@ -24,4 +24,3 @@
 5. Write tests for component `APP` to check:
    1. there is a button with text `+`
    2. there is an input element
-   3. when you type `task1` to the input, it has the same value
